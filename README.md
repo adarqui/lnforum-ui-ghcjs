@@ -1,3 +1,3 @@
-# ln-ui-ghcjs
+# lnforum-ui-ghcjs
 
-This exists simply to build the ln-ui application using the ghcjs compiler, which produces the result javascript.
+This exists simply to build the lnforum-ui-reactflux application using the ghcjs compiler, which produces the result javascript.
