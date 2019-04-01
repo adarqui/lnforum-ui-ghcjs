@@ -39,7 +39,7 @@ packages:
 extra-deps:
 - ref-tf-0.4
 - these-0.6.1.0
-- react-flux-1.1.1
+- react-flux-1.2.3
 - ghcjs-dom-0.2.4.0
 - html-entities-1.1.4.2
 - web-routes-0.27.14.2

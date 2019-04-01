@@ -17,7 +17,7 @@ executable lnforum-ui-ghcjs-exe
   hs-source-dirs:      app
   main-is:             Main.hs
   build-depends:       base
-                     , react-flux == 1.1.1
+                     , react-flux == 1.2.3
                      , lnforum-ui-reactflux
   if impl(ghcjs)
       build-depends: ghcjs-base, lnforum-api-ghcjs
